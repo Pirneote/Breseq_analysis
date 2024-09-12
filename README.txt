@@ -1,4 +1,4 @@
-Script to run BRESEQ on HPC cluste
+Script to run BRESEQ on HPC cluster
 
 breseq.sh --> run one job
 
@@ -12,4 +12,4 @@ files structure:
   Condition2_READ2.fasta.gz
 
 
-Jupyter notebook to analysis BRESEQ output for all conditions and generate heatmap to visualise de novo mutations
+Jupyter notebook to analyze BRESEQ output for all conditions and generate heatmap to visualize de novo mutations
