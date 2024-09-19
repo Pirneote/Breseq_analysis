@@ -1,4 +1,4 @@
-Script to run BRESEQ on HPC cluster
+Script to run BRESEQ using polymorphism mode on HPC cluster
 
 breseq.sh --> run one job
 
