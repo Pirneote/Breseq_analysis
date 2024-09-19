@@ -2,7 +2,7 @@ Script to run BRESEQ on HPC cluster
 
 breseq.sh --> run one job
 
-breseq_Pp.sh --> run multiple jobs
+breseq_Pp.sh; breseq_Aj.sh --> run multiple jobs
 files structure:
   Condition1_rep1_READ1.fasta.gz
   Condition1_rep1_READ2.fasta.gz
